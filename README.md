@@ -1,3 +1,4 @@
+(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)")
 # 💫 About Me:
 - 👋 Hi, I’m @Mohamed Rashidh<br>- 👀 I’m interested in software engineering <br>- 🌱 I’m currently learning software engineering in SLIIT<br>- 💞️ I’m looking for an intern ...<br>- 📫 to reach me ...
 
