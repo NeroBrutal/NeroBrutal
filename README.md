@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @NeroBrutal<br>- 👀 I’m interested in software engineering <br>- 🌱 I’m currently learning software engineering <br>- 💞️ I’m looking to collaborate on ...<br>- 📫 How to reach me ...
+- 👋 Hi, I’m @Mohamed Rashidh<br>- 👀 I’m interested in software engineering <br>- 🌱 I’m currently learning software engineering in SLIIT<br>- 💞️ I’m looking for an intern ...<br>- 📫 to reach me ...
 
 
 ## 🌐 Socials:
