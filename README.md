@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm rashidh</h1>
+<h1 align="center">Hi 👋, I'm Rashidh</h1>
 <h3 align="center">A passionate Software developer from Sri Lanka</h3>
 
 <img align="center" alt="Coding" width="800" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
