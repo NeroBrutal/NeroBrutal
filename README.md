@@ -9,7 +9,7 @@
 </p>
 
 
-- 👯 I’m looking for a Job on in UNITED ARAB EMIRATES
+- 👯 I’m looking for a Job in UNITED ARAB EMIRATES
 
 - 📫 How to reach me **m.f.m.rashidh@gmail.com**
 
