@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%23FFD700&size=48&center=true&vCenter=true&width=1200&height=100&lines=Full+Stack+Developer;+Software+Engineer;+from+Sri+Lanka)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%23FFD700&size=48&center=true&vCenter=true&width=1200&height=100&lines=AI+Engineer;python+Developer;+Software+Engineer;+from+Sri+Lanka)]()
 
 <p align="center">
   <img align="center" alt="Coding" width="800" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
