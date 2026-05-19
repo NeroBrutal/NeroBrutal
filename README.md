@@ -222,5 +222,5 @@ I have mastered React, Node.js, full stack development, and IoT engineering. Now
 
 
 <p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/nerobrutal/nerobrutal/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
