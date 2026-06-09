@@ -9,17 +9,26 @@
 </p>
 
 
-- 👯 I’m looking for a Job in UNITED ARAB EMIRATES
+- 👯 I’m currently working as an AI Automation Engineer
 
 - 📫 How to reach me **m.f.m.rashidh@gmail.com**
 
-As a recent graduate of SLIIT CITY UNI, I have completed my B.Sc (Hons) in Computer Science & Software Engineering from the University of Bedfordshire (UK), achieving a First Class degree. I have focused on every aspect of software development and hold certifications in Backend Web Development using JavaScript, Node.js, and Express. My proficiency extends to languages like C++, Java, Python, HTML, and JavaScript.
+I am an AI Automation Engineer with almost two years of professional experience, including working
+on the MVP application for Araby.ai. My current work focuses on building AI-powered automation
+solutions and integrating intelligent workflows with ERP systems, especially Odoo.
 
-During my studies, I worked on my final project, an IoT baby care robot that not only looks after babies but also keeps mothers informed about the situation. Additionally, it functions as a cradle. This project showcases my ability to apply technical skills to real-world problems and collaborate effectively with team members.
+I have hands-on experience in AI automation, backend development, ERP customization, API
+integrations, and business process automation. I work with tools and technologies such as Python,
+JavaScript, Node.js, React, Docker, FastAPI, PostgreSQL, and Odoo, and I enjoy building practical
+solutions that improve real-world business operations.
 
-Previously, I worked as a Customer Service Specialist at Benkaram Tower, where I gained experience in handling customer inquiries, complaints, and feedback. I'm also an active participant in extracurricular activities, including the SLIIT Football Team, AIESEC, and serving as the President of the An-Noor Committee at SLIIT CITY UNI.
+I also have a strong academic background in Computer Science and Software Engineering, having
+completed my B.Sc. (Hons) from the University of Bedfordshire through SLIIT CITY UNI with First
+Class honors. My final-year project was an IoT-based baby care robot designed to monitor and support
+baby care while keeping parents informed.
 
-I have mastered React, Node.js, full stack development, and IoT engineering. Now awaiting my convocation, my goal is to continue growing as a computer science professional and contribute to innovative projects that positively impact people's lives. I am looking for any suitable work within my industry.
+Currently, I am continuing to grow as an AI and ERP automation professional, with a focus on
+developing scalable, intelligent, and business-ready software systems.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
