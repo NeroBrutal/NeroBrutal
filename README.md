@@ -41,23 +41,37 @@ The core of my current work. Agents that live inside the ERP — reading and wri
 **🔗 RAG & Knowledge Systems**
 Retrieval pipelines over company documents and databases so agents answer from real data rather than guessing — chunking, embedding, vector search, and reranking, with evaluation to keep quality honest.
 
+**🔄 Workflow Automation with n8n**
+Self-hosted **n8n** as the backbone connecting agents to the rest of the business — webhooks, schedulers, queues, retries and error branches wired to CRMs, inboxes, databases and Odoo. n8n handles the orchestration and human-in-the-loop approval steps; the LLM handles the judgement. Custom nodes and code steps where the built-in ones don't reach.
+
 ---
 
 ### 🛠️ AI & GenAI Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,postgres,docker" alt="ai stack" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Anthropic-D4A27F?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
 </p>
 
 | Area | Tools |
 |---|---|
-| **LLM APIs** | OpenAI · Anthropic · Google Gemini |
-| **Agent Frameworks** | LangChain · LangGraph · CrewAI · n8n |
-| **RAG & Vectors** | pgvector · Qdrant · ChromaDB · FAISS |
-| **ML** | PyTorch · TensorFlow · Hugging Face Transformers |
-| **Realtime & Voice** | Realtime/streaming APIs · WebSockets · STT/TTS pipelines |
-| **Serving** | FastAPI · Docker · Nginx · AWS |
-| **ERP & Automation** | Odoo · XML-RPC / JSON-RPC · Selenium · REST integrations |
+| **Workflow Automation** | **n8n** (self-hosted) · Make · Zapier · Apache Airflow · Celery · Cron |
+| **Agent Frameworks** | LangChain · LangGraph · LlamaIndex · CrewAI · AutoGen · Pydantic AI · OpenAI Agents SDK · MCP |
+| **LLM APIs** | OpenAI · Anthropic Claude · Google Gemini · Azure OpenAI · Groq · Mistral · OpenRouter · Ollama (local) |
+| **RAG & Vectors** | pgvector · Qdrant · ChromaDB · FAISS · Pinecone · Weaviate · Hybrid search & reranking |
+| **Doc Processing** | Unstructured · LlamaParse · PyMuPDF · Tesseract OCR · Docling |
+| **Realtime & Voice** | OpenAI Realtime API · LiveKit · Twilio · Deepgram · Whisper · ElevenLabs · WebSockets |
+| **Evaluation & Observability** | LangSmith · Langfuse · Ragas · Weights & Biases · Custom eval harnesses |
+| **ML / Fine-tuning** | PyTorch · TensorFlow · Transformers · LoRA / PEFT · scikit-learn |
+| **Serving & Infra** | FastAPI · Docker · Nginx · AWS · Redis · Supabase · PostgreSQL |
+| **ERP & Integrations** | Odoo (XML-RPC / JSON-RPC / OWL) · REST & GraphQL APIs · Webhooks · Selenium · Playwright |
 
 ---
 
