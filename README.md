@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%23FFD700&size=48&center=true&vCenter=true&width=1200&height=100&lines=Generative+AI+Engineer;AI+Agent+Developer;AI+Automation+%26+ERP+Integration;from+Sri+Lanka)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&color=%23FFD700&size=48&center=true&vCenter=true&width=1200&height=100&lines=Generative+AI+Engineer;AI+Agent+Developer;AI+Automation+%26+ERP+Integration;from+Sri+Lanka)]()
 
 <p align="center">
   <img align="center" alt="Coding" width="800" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
@@ -199,7 +199,7 @@ Final-year project: an IoT-based baby care robot that monitored infant wellbeing
 <b>☄️ Github Streaks</b>
 <br />
 <p align="center">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=nerobrutal&theme=gotham&hide_border=true" />
+  <img height="150em" src="https://streak-stats.demolab.com/?user=nerobrutal&theme=gotham&hide_border=true" />
 </p>
 
 <b>📊 Total Contribution Graph</b>
