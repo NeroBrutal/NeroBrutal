@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%23FFD700&size=48&center=true&vCenter=true&width=1200&height=100&lines=AI+Engineer;python+Developer;+Software+Engineer;+from+Sri+Lanka)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%23FFD700&size=48&center=true&vCenter=true&width=1200&height=100&lines=Generative+AI+Engineer;AI+Agent+Developer;AI+Automation+%26+ERP+Integration;from+Sri+Lanka)]()
 
 <p align="center">
   <img align="center" alt="Coding" width="800" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
@@ -8,194 +8,162 @@
 <a href="https://github.com/nerobrutal?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=nerobrutal&theme=onestar&no-frame=true&column=3&row=2"  width="50%" height="50%" alt="@Goblin's trophy stats"/></a>
 </p>
 
+---
 
-- 👯 I’m currently working as an AI Automation Engineer
+### 🤖 About Me
 
-- 📫 How to reach me **m.f.m.rashidh@gmail.com**
+I'm a **Generative AI Engineer** who builds and ships production AI agents — not demos. Almost two years of professional experience, including work on the MVP for **Araby.ai**.
 
-I am an AI Automation Engineer with almost two years of professional experience, including working
-on the MVP application for Araby.ai. My current work focuses on building AI-powered automation
-solutions and integrating intelligent workflows with ERP systems, especially Odoo.
+My focus is designing autonomous and semi-autonomous agents that handle real business workflows end to end: talking to customers, reading and answering email, calling internal tools, and writing back into the systems a company actually runs on.
 
-I have hands-on experience in AI automation, backend development, ERP customization, API
-integrations, and business process automation. I work with tools and technologies such as Python,
-JavaScript, Node.js, React, Docker, FastAPI, PostgreSQL, and Odoo, and I enjoy building practical
-solutions that improve real-world business operations.
+The part I care most about right now is **embedding AI agents directly inside ERP systems** — specifically Odoo. Most businesses don't need another chatbot bolted on the side; they need intelligence sitting inside the system where their orders, inventory, invoices and customers already live. That's where an agent stops being a novelty and starts making the business genuinely more flexible.
 
-I also have a strong academic background in Computer Science and Software Engineering, having
-completed my B.Sc. (Hons) from the University of Bedfordshire through SLIIT CITY UNI with First
-Class honors. My final-year project was an IoT-based baby care robot designed to monitor and support
-baby care while keeping parents informed.
+- 🔭 Currently building AI agent systems and Odoo-native AI automation
+- 🌱 Going deeper on multi-agent orchestration, evaluation, and reliable tool use
+- 📫 Reach me at **m.f.m.rashidh@gmail.com**
 
-Currently, I am continuing to grow as an AI and ERP automation professional, with a focus on
-developing scalable, intelligent, and business-ready software systems.
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🧠 What I Build
+
+**🎧 Customer Service Agents**
+Conversational support agents that handle real customer queries with grounded, retrieval-backed answers, escalate cleanly to humans when confidence drops, and stay consistent with a company's tone and policy.
+
+**⚡ Realtime Voice & Streaming Agents**
+Low-latency realtime agents built on streaming APIs — speech in, speech out, with tool calls happening mid-conversation. Focused on keeping latency low enough that the interaction actually feels natural.
+
+**📧 Email Automation Agents**
+Agents that read incoming mail, classify intent, pull the context they need from internal systems, draft a reply, and either send it or queue it for approval. Built to cut the repetitive half of an inbox down to nothing.
+
+**🏢 AI Agents Inside Odoo**
+The core of my current work. Agents that live inside the ERP — reading and writing records through Odoo's models and APIs, automating quotations, invoicing, inventory checks, CRM follow-ups, and reporting. Natural-language access to business data, with the agent doing the operational work instead of just describing it.
+
+**🔗 RAG & Knowledge Systems**
+Retrieval pipelines over company documents and databases so agents answer from real data rather than guessing — chunking, embedding, vector search, and reranking, with evaluation to keep quality honest.
+
+---
+
+### 🛠️ AI & GenAI Stack
+
 <p align="left">
-<a href="https://linkedin.com/in/mohamed rashidh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed rashidh" height="30" width="40" /></a>
-<a href="https://instagram.com/___r.a.s.h.i.d.h___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___r.a.s.h.i.d.h___" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@rockrazith9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@rockrazith9" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,postgres,docker" alt="ai stack" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+| Area | Tools |
+|---|---|
+| **LLM APIs** | OpenAI · Anthropic · Google Gemini |
+| **Agent Frameworks** | LangChain · LangGraph · CrewAI · n8n |
+| **RAG & Vectors** | pgvector · Qdrant · ChromaDB · FAISS |
+| **ML** | PyTorch · TensorFlow · Hugging Face Transformers |
+| **Realtime & Voice** | Realtime/streaming APIs · WebSockets · STT/TTS pipelines |
+| **Serving** | FastAPI · Docker · Nginx · AWS |
+| **ERP & Automation** | Odoo · XML-RPC / JSON-RPC · Selenium · REST integrations |
+
+---
+
+### 💻 Engineering Stack
+
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
       <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="cpp" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=selenium" width="65" height="65" alt="Laravel" />
-      <br>Selenium
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="tensorflow" />
-      <br>Tensorflow
-    </td>
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" alt="Laravel" />
-      <br>Pytorch
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nginx" width="65" height="65" />
-      <br>Nginx
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" alt="FastAPI" />
       <br>FastAPI
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
       <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
+      <br>Nginx
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
       <br>TypeScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="NodeJS" />
       <br>NodeJS
     </td>
     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="NextJS" />
       <br>NextJS
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-      <br>Webpack
+        <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
+      <br>PostgreSQL
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
+        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+      <br>MongoDB
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++" />
+      <br>C++
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="Rails" />
-      <br>Rails
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-      <br>jQuery
-    </td>
-  </tr>
- <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="MongoDB" />
+        <img src="https://skillicons.dev/icons?i=go" width="65" height="65" alt="Go" />
       <br>Go
     </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="Ruby" />
-      <br>Ruby
-      </td>
-      </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br>PHP
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VsCode
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-      <br>WordPress
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=webflow" width="48" height="48" alt="Webflow" />
-      <br>Webflow
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" alt="Git" />
+      <br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="48" height="48" />
-      <br>Sass
-    </td>
+        <img src="https://skillicons.dev/icons?i=selenium" width="65" height="65" alt="Selenium" />
+      <br>Selenium
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="MySQL" />
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="65" height="65" alt="GraphQL" />
       <br>GraphQL
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
+        <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind" />
+      <br>Tailwind
     </td>
- </tr>
+  </tr>
 </table>
+
+---
+
+### 🎓 Background
+
+**B.Sc. (Hons) Computer Science & Software Engineering** — University of Bedfordshire, via SLIIT City Uni · **First Class Honours**
+
+Final-year project: an IoT-based baby care robot that monitored infant wellbeing and kept parents informed in realtime — my first proper taste of building autonomous systems that have to work reliably in the real world.
+
+---
+
+### 🌐 Connect
+
+<p align="left">
+<a href="https://linkedin.com/in/mohamed-rashidh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="mailto:m.f.m.rashidh@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="30" width="30" /></a>
+<a href="https://www.hackerearth.com/@rockrazith9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" /></a>
+<a href="https://instagram.com/___r.a.s.h.i.d.h___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</p>
+
+---
 
 <b>⚡ Github Stats</b>
 <br />
@@ -228,7 +196,6 @@ developing scalable, intelligent, and business-ready software systems.
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=nerobrutal&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nerobrutal/nerobrutal/output/github-contribution-grid-snake.svg" alt="snake animation" />
